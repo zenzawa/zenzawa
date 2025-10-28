@@ -1,6 +1,6 @@
-<img src="https://github.com/kiraoke/kiraoke/blob/main/kurumi.gif" height="40%" width="40%"/>
+<img src="https://github.com/zenzawa/zenzawa/blob/main/kurumi.gif" height="40%" width="40%"/>
 
-### About Me <img src="https://github.com/kiraoke/kiraoke/blob/main/pikachu.gif" height="7%" width="7%"/>
+### About Me <img src="https://github.com/zenzawa/zenzawa/blob/main/pikachu.gif" height="7%" width="7%"/>
 
 <h6>no thots head empty</h6>
 
@@ -33,7 +33,7 @@
 ## notifs
 
 <h6 align="center">
-  <img src="https://count.getloli.com/@kiraoke?name=kiraoke&theme=booru-smtg&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto"  />
+  <img src="https://count.getloli.com/@zenzawa?name=zenzawa&theme=booru-smtg&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto"  />
 </h6>
 
 <br />
@@ -44,9 +44,9 @@
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kiraoke/kiraoke/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kiraoke/kiraoke/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kiraoke/kiraoke/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zenzawa/zenzawa/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zenzawa/zenzawa/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zenzawa/zenzawa/output/github-contribution-grid-snake.svg">
 </picture>
 </div>
 </details>
