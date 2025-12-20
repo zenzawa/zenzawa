@@ -1,4 +1,4 @@
-<img src="https://github.com/zenzawa/zenzawa/blob/main/kurumi.gif" height="40%" width="40%"/>
+<img src="https://github.com/zenzawa/zenzawa/blob/main/teto.gif" height="40%" width="40%"/>
 
 ### About Me <img src="https://github.com/zenzawa/zenzawa/blob/main/pikachu.gif" height="7%" width="7%"/>
 
