@@ -1,18 +1,18 @@
 <img src="https://github.com/zenzawa/zenzawa/blob/main/teto.gif" height="40%" width="40%"/>
 
-### About Me <img src="https://github.com/zenzawa/zenzawa/blob/main/pikachu.gif" height="7%" width="7%"/>
+### about Me <img src="https://github.com/zenzawa/zenzawa/blob/main/pikachu.gif" height="7%" width="7%"/>
 
-<h6>no thots head empty</h6>
+<h6>i exist. i don't don't exist.</h6>
 
 <details>
-<summary><b>Skills</b></summary>
+<summary><b>skills</b></summary>
 <div>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,arch,neovim)](https://skillicons.dev)
 
 </div>
    
-<summary><b>Learning</b></summary>
+<summary><b>learning</b></summary>
 <div>
   
 [![Learning](https://skillicons.dev/icons?i=rust,dart,flutter,nix)](https://skillicons.dev)
@@ -22,7 +22,7 @@
 
 </details>
 <details>
-  <summary><b>Motto</b></summary>
+  <summary><b>motto</b></summary>
 <div>
 
 - **"valar morghulis"**
@@ -40,7 +40,7 @@
 <br />
 
 <details>
-  <summary><b>My Pet</b></summary>
+  <summary><b>pet</b></summary>
 
 <div align="center">
 <picture>
